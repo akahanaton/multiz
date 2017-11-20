@@ -1,0 +1,45 @@
+{
+    "__default__":
+    {
+        "smp" : 1,
+        "h_vmem" : "20g"
+    },
+    "all" :
+    {
+		"smp" : 1,
+        "h_vmem" : "10g"
+    },
+    "create_db" :
+    {
+    },
+    "cor_pe" :
+    {
+    },
+    "cor_sj" :
+    {
+    },
+    "genome_size1" :
+    {
+    },
+    "genome_size2" :
+    {
+    },
+    "k_unitigs" :
+    {
+    },
+    "filter_alt":
+    {
+		"smp" : 1,
+        "h_vmem" : "20g"
+    },
+    "filter_redundancy":
+    {
+		"smp" : 1,
+        "h_vmem" : "20g"
+    },
+    "report" :
+    {
+		"smp" : 1,
+        "h_vmem" : "10g"
+    }
+}

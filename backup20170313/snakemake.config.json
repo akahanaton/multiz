@@ -1,0 +1,26 @@
+{
+"samples": {
+    "PE": [
+       "aa": {"size": 250, "var": 25, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/250bp_1_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/250bp_1_2.fastq.gz"},
+       "bb": {"size": 250, "var": 25, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/250bp_2_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/250bp_2_2.fastq.gz"},
+       "bb": {"size": 500, "var": 50, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/500bp_1_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/500bp_1_2.fastq.gz"},
+       "bb": {"size": 800, "var": 80, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/800bp_1_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/800bp_1_2.fastq.gz"}
+    ],
+    "ME": [
+       "ee": {"size": 2000,  "var": 200,  "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/2000bp_1_1.fastq.gz",  "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/2000bp_1_2.fastq.gz"},
+       "ff": {"size": 2000,  "var": 200,  "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/2000bp_2_1.fastq.gz",  "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/2000bp_2_2.fastq.gz"},
+       "gg": {"size": 5000,  "var": 500,  "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/5000bp_1_1.fastq.gz",  "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/5000bp_1_2.fastq.gz"},
+       "hh": {"size": 5000,  "var": 500,  "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/5000bp_2_1.fastq.gz",  "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/5000bp_2_2.fastq.gz"},
+       "ii": {"size": 10000, "var": 1000, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/10000bp_1_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/10000bp_1_2.fastq.gz"},
+       "jj": {"size": 10000, "var": 1000, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/10000bp_2_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/10000bp_2_2.fastq.gz"},
+       "kk": {"size": 20000, "var": 2000, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/20000bp_1_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/20000bp_1_2.fastq.gz"},
+       "ll": {"size": 20000, "var": 2000, "file1": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/20000bp_2_1.fastq.gz", "file2": "/gpfs/wlflab/genome_assembly_raw_data/BGI_Genome_Raw_Reads/20000bp_2_2.fastq.gz"}
+    ],
+    "PACBIO": "/gpfs/wlflab/Ming/genome_assembly/PteropusAlecto/QC_subreads.fasta"
+},
+"PE_AVG_READ_LENGTH": 150,
+"KMER": 105,
+"KMER_J": 31,
+"MIN_Q_CHAR": 64,
+"JF_SIZE": 14835455394
+}

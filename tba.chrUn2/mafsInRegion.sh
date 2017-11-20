@@ -1,0 +1,1 @@
+mafsInRegion chr6.29722775-33143325.bed chr6.29722775-33143325.maf all3.maf2
